@@ -16,8 +16,8 @@
       "folder_name": "Act4FinalAscent",
       "mod_id": "Act4FinalAscent",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_f66947b8.zip",
-      "bundle_sha256": "f66947b8e8bad10befaf231dfc8a14877c46191aabc08abbc0a0f21a369238d6"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Act_4__Final_Ascent_v0.1.2e_7eeb1743.zip",
+      "bundle_sha256": "7eeb17433ad546158427c646027c6aa80a25328712e0008e9b8840692fd73f0b"
     },
     {
       "name": "BaseLib",
@@ -32,8 +32,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_be6f8a46.zip",
-      "bundle_sha256": "be6f8a46e8d801551e8a8b541cbc7dbad225ab89aafca1f60039b43b701a0ebb"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_f726fe91.zip",
+      "bundle_sha256": "f726fe913517182acab1685e8630421aa9188662cc65d08146cb2dcd503f401e"
     },
     {
       "name": "BetterSpire2",
@@ -62,8 +62,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_8283658c.zip",
-      "bundle_sha256": "8283658ceca722247894145fbd9251fb134a3b659c2b79cf11abb7f3c743515e"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_fadb004e.zip",
+      "bundle_sha256": "fadb004ef3d12389d37bc84fc4bbd36ba691d04e3e18d0f1de14e64add7590dd"
     },
     {
       "name": "Calypso'sHappyHour / 卡里普索的欢乐时光",
@@ -79,8 +79,8 @@
       "folder_name": "CalypsosHappyHour",
       "mod_id": "CalypsosHappyHour",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Calypso.sHappyHour___._v1.1.3_1b51b694.zip",
-      "bundle_sha256": "1b51b694301d3c6a69343a95763dcb22bcb5afba7dff4174d01bc537309cac84"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Calypso.sHappyHour___._v1.1.3_02cf1b1e.zip",
+      "bundle_sha256": "02cf1b1edc30ca9bffa31038553a28645bba68f8a5db738f08c124ad9efc5c21"
     },
     {
       "name": "Campfire Trading",
@@ -95,8 +95,8 @@
       "folder_name": "STS2Trade",
       "mod_id": "STS2Trade",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0_538c4061.zip",
-      "bundle_sha256": "538c4061286501bad67ce70a10df0c705d48cda3bd56184d876e9338761687de"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0_920dedd0.zip",
+      "bundle_sha256": "920dedd0fd8ffbc4cd0f38a7ab5b1df5f2e7715a696ef4e40b33eeabf3b4180d"
     },
     {
       "name": "Merchant2CuteII",
@@ -111,8 +111,8 @@
       "folder_name": "Merchant2CuteII",
       "mod_id": "Merchant2CuteII",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.5.0_06155b69.zip",
-      "bundle_sha256": "06155b69ee290c677b1710648accba288d86580153ec1c097ebe693a5639df77"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.5.0_e48e9e17.zip",
+      "bundle_sha256": "e48e9e179279cb7f858d71a9b8d4f11f34c7f09c96daa0a6ee4a63905a2d4f39"
     },
     {
       "name": "MoreCardRewards",
@@ -127,8 +127,8 @@
       "folder_name": "MoreCardRewards",
       "mod_id": "MoreCardRewards",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/MoreCardRewards_v1.5.0_569312c6.zip",
-      "bundle_sha256": "569312c6d58a19ed6f3ed67c0ab5d0527ecff564726f92d9114ae561ea133798"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/MoreCardRewards_v1.5.0_586f0967.zip",
+      "bundle_sha256": "586f09679d904c0b99a0cd33da82a85a855b1fff5b8cf6677b3f22defe548522"
     },
     {
       "name": "Relic Reward Choice",
@@ -143,8 +143,8 @@
       "folder_name": "RelicRewardChoice",
       "mod_id": "RelicRewardChoice",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.0_13f63b5c.zip",
-      "bundle_sha256": "13f63b5cd4699ac229d31f21106f3dfc98e7dbc343bee2157d6a88b3b97d077a"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.0_419d4635.zip",
+      "bundle_sha256": "419d463592112cbdbef8037e80cd27cd4bed063b1824a1444e275d47cd33dd38"
     },
     {
       "name": "RemoveMultiplayerPlayerLimit",
@@ -160,8 +160,8 @@
       "folder_name": "RemoveMultiplayerPlayerLimit",
       "mod_id": "RemoveMultiplayerPlayerLimit",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_8eeece80.zip",
-      "bundle_sha256": "8eeece80a3aeb5c3289dc3e5db9fc5cce09a105143adb2b0f84d93a1f9d7dc9e"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/RemoveMultiplayerPlayerLimit_v0.1.7_1889f788.zip",
+      "bundle_sha256": "1889f788cb37b93c13da89d3edcf09d476f4eba0c64da28478a3d421d9ec27cd"
     },
     {
       "name": "Unified Save Path",
@@ -176,8 +176,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_ace33655.zip",
-      "bundle_sha256": "ace336552e2d7d2f498129538bef4a9bd943efe5df4186d23100d20152292e8d"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_cf9cf319.zip",
+      "bundle_sha256": "cf9cf3196bcb72e1fe3e81ea630346661cb0eb7b47b410660f666205ad2facea"
     },
     {
       "name": "Watcher",
@@ -192,24 +192,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_00809ed8.zip",
-      "bundle_sha256": "00809ed89f270e2a18e9b1906f782d3dfdf0a01cba4a54587918628e9651e4b4"
-    },
-    {
-      "name": "皮皮倒带: Rewind",
-      "version": "0.26.11",
-      "source": null,
-      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
-      "files": [
-        "Rewind\\Rewind.dll",
-        "Rewind\\Rewind.json",
-        "Rewind\\Rewind.pck"
-      ],
-      "folder_name": "Rewind",
-      "mod_id": "Rewind",
-      "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_0bfede39.zip",
-      "bundle_sha256": "0bfede39366f24eb4870f4e8003b4e09ca226fabb9571a950387aaa15fc0cb6d"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_45f74773.zip",
+      "bundle_sha256": "45f74773fa6c51d25ceb276c331c48dc040f50b410e2a5fdc7c57c0886e9f72f"
     },
     {
       "name": "皮皮极速: SpeedX",
@@ -224,8 +208,8 @@
       "folder_name": "SpeedX",
       "mod_id": "SpeedX",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_61217490.zip",
-      "bundle_sha256": "6121749003023b2642cdce6e99e00596e913caa4a10d35e9e35c7dbc8200d911"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_efb6ed43.zip",
+      "bundle_sha256": "efb6ed43702e4cee2cc7b8bb64ff2d1c2048e5aefdb878e9f67cbf35314d741c"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -240,11 +224,45 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_0b275ba8.zip",
-      "bundle_sha256": "0b275ba838bfd7699a743f346aa61e4c2a3f090eef0e44b2a4b923e324aaebf7"
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_5b3666d9.zip",
+      "bundle_sha256": "5b3666d9993cead5a42f71ca808878d745a75c3dba483879e47b08dd10fbcbf6"
+    },
+    {
+      "name": "RitsuLib (STS2 0.103.2 compat)",
+      "version": "0.3.8",
+      "source": null,
+      "hash": "bef062f47eecc18215c9e58669d88c0ee0ee675bcf31df2b80fa056a7bdc8f4e",
+      "files": [
+        "STS2.RitsuLib.Compat.0.103.2.0.3.8.github\\compat-target.txt",
+        "STS2.RitsuLib.Compat.0.103.2.0.3.8.github\\mod_manifest.json",
+        "STS2.RitsuLib.Compat.0.103.2.0.3.8.github\\STS2-RitsuLib.dll",
+        "STS2.RitsuLib.Compat.0.103.2.0.3.8.github\\STS2-RitsuLib.pdb",
+        "STS2.RitsuLib.Compat.0.103.2.0.3.8.github\\STS2-RitsuLib.xml"
+      ],
+      "folder_name": "STS2.RitsuLib.Compat.0.103.2.0.3.8.github",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.3.8_20d782d8.zip",
+      "bundle_sha256": "20d782d833bc47c8be134f352fcbac27851a3264b6449c7c4b0c9dc556b87139"
+    },
+    {
+      "name": "皮皮快连: QuickLink",
+      "version": "0.9.9",
+      "source": null,
+      "hash": "ad235ca67b3c822b4f6cf9d08b4ce31a5cd3e1030c7995fb9be1d9236bce623d",
+      "files": [
+        "QuickLink\\QuickLink.dll",
+        "QuickLink\\QuickLink.json",
+        "QuickLink\\QuickLink.pck"
+      ],
+      "folder_name": "QuickLink",
+      "mod_id": "QuickLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/raskofshadows/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_aa4eba98.zip",
+      "bundle_sha256": "aa4eba984452cefe63bc8d0bdfdab8ae07b46db770b4cb8c7b5e98d4b033a80b"
     }
   ],
   "created_at": "2026-06-08T00:41:26.841950100Z",
-  "updated_at": "2026-06-08T01:46:02.230199300Z",
+  "updated_at": "2026-06-08T01:59:21.471478500Z",
   "public": false
 }
